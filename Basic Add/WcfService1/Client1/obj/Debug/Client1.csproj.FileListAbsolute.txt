@@ -1,0 +1,14 @@
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\bin\Debug\Client1.exe.config
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\bin\Debug\Client1.exe
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\bin\Debug\Client1.pdb
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1.csprojResolveAssemblyReference.cache
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\MainWindow.g.cs
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\App.g.cs
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1_MarkupCompile.cache
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1_MarkupCompile.lref
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\MainWindow.baml
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1.g.resources
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1.Properties.Resources.resources
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1.csproj.GenerateResource.Cache
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1.exe
+c:\users\sai manideep jinka\documents\visual studio 2015\Projects\WcfService1\Client1\obj\Debug\Client1.pdb

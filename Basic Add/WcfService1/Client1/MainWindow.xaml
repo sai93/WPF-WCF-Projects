@@ -1,0 +1,21 @@
+﻿<Window x:Class="Client1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="Aqua">
+
+        <Label Background="Blue" Foreground="White" x:Name="label" Content="a :" HorizontalAlignment="Left" Margin="166,84,0,0" VerticalAlignment="Top"/>
+        <Label Background="Blue" Foreground="White" x:Name="label1" Content="b :" HorizontalAlignment="Left" Margin="166,126,0,0" VerticalAlignment="Top"/>
+
+        <Button x:Name="button" Content="add" HorizontalAlignment="Left" Margin="206,233,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.221,0.375" Click="button_Click"/>
+        <Label Background="Blue" Foreground="White" x:Name="label3" Content="result" HorizontalAlignment="Left" Margin="165,177,0,0" VerticalAlignment="Top" RenderTransformOrigin="-7.397,-8.198"/>
+        <TextBlock Background="White" x:Name="textBlock3" HorizontalAlignment="Left" Margin="206,177,0,0" TextWrapping="Wrap" Width="100" VerticalAlignment="Top" Height="26" RenderTransformOrigin="-0.164,0.456"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="26" Margin="190,84,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.068,0.7"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="26" Margin="190,126,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
